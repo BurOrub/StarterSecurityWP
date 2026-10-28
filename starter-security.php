@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Starter Security
- * Description: Protezioni di base per i siti costruiti con il Tema Starter: header di sicurezza, CSP in solo report, XML-RPC e utenti nascosti, login protetto, limiti alle API pubbliche. Ogni misura si attiva e disattiva da Impostazioni > Starter Security.
+ * Description: Protezioni di base per i siti costruiti con il Tema Starter: header di sicurezza, CSP in solo report, XML-RPC e utenti nascosti, login protetto, limiti alle API pubbliche.
  * Version: 0.2.0
  * Requires at least: 6.4
  * Requires PHP: 7.4
